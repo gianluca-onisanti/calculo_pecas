@@ -1,0 +1,35 @@
+[data-testid="stToolbar"] {
+  display: none;
+}
+
+[data-testid="stHeaderActionElements"] {
+  display: none;
+}
+
+[data-testid="stHeader"] {
+  background-color: var(--bg);
+}
+
+[data-testid="stDecoration"] {
+  display: none;
+}
+
+[data-testid="stHeaderActionElements"] {
+  display: none;
+}
+
+[data-testid="StyledFullScreenButton"] {
+  display: none;
+}
+
+[data-testid="stWidgetLabel"] p {
+  font-weight: bolder !important;
+}
+
+.stImage {
+  justify-content: center;
+}
+
+.main {
+  text-align: center;
+}
